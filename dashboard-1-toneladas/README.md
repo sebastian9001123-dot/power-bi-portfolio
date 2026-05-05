@@ -17,10 +17,6 @@ Monitorea las toneladas gestionadas por diferentes asociaciones con filtros inte
 - Distribución porcentual (gráfico circular)
 - Total de toneladas acumulado
 
-## 📁 Archivo
-
-[Descargar dashboard_toneladas.pbix](dashboard_toneladas.pbix)
-
 ## 🛠️ Herramientas
 
 Power BI | DAX | Power Query
