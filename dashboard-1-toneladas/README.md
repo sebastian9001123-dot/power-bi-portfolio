@@ -1,8 +1,8 @@
-# 📊 Dashboard: Reporte de Toneladas por Asociación 2025
+# 📊 Dashboard: Reporte de Toneladas por Asociación 
 
 ## 🎥 Video demostrativo
 
-[![Ver video del dashboard](https://img.youtube.com/vi/https://youtu.be/k7xLfW0xeJ4/0.jpg)](https://youtu.be/https://youtu.be/k7xLfW0xeJ4)
+[![Ver video del dashboard](https://img.youtube.com/vi/k7xLfW0xeJ4/0.jpg)](https://youtu.be/k7xLfW0xeJ4)
 
 *Haz clic en la imagen para ver el video*
 
