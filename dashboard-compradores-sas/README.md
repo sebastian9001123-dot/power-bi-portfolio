@@ -12,8 +12,8 @@ Analiza la relación entre toneladas gestionadas y el valor monetario generado, 
 
 ## 📊 Datos clave
 
-| KPI | Valor |
-|-----|-------|
+| KPI | 
+|-----|
 | Total toneladas | 
 | Valor total | 
 
