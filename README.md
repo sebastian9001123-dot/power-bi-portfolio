@@ -26,10 +26,6 @@ Este repositorio contiene mis proyectos de **Power BI** como Analista de Datos. 
 - Distribución porcentual (pie chart)
 - Tarjeta de total acumulado
 
-**🎥 [Ver video demostrativo](https://youtu.be/TU_ENLACE_AQUI)** *← Reemplaza con tu link de YouTube*
-
-**📁 [Descargar archivo .pbix](ruta/a/tu/archivo.pbix)** *← Lo subirás después*
-
 ---
 
 ### 2. Reporte Detallado de Toneladas y Valor por SAS
@@ -39,12 +35,8 @@ Este repositorio contiene mis proyectos de **Power BI** como Analista de Datos. 
 **Funcionalidades:**
 - Tabla dinámica con totales
 - Filtros por mes y asociación
-- Cálculo de valor total: $71,071,190
-- Total toneladas: 5,422,902
-
-**🎥 [Ver video demostrativo](https://youtu.be/TU_ENLACE_AQUI)** *← Reemplaza con tu link de YouTube*
-
-**📁 [Descargar archivo .pbix](ruta/a/tu/archivo.pbix)** *← Lo subirás después*
+- Cálculo de valor total
+- Total toneladas
 
 ---
 
@@ -63,9 +55,8 @@ Este repositorio contiene mis proyectos de **Power BI** como Analista de Datos. 
 
 **Juan Sebastian Ramirez Rodriguez**
 
-- 📧 sebastian9001123@gmail.com
+- 📧 sebastian.9001123@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-sebastian-ramirez-9a534b242)
-- 🐙 GitHub: [tu-usuario](https://github.com/tu-usuario)
 
 ---
 
