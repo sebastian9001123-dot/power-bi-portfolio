@@ -4,7 +4,7 @@
 
 Puedes ver la explicación completa del proyecto y el dashboard en funcionamiento en el siguiente video:
 
-🔗 **[Ver Video del Proyecto en YouTube](https://youtu.be/GH1ixV-S0Fo)**
+[![Ver video del dashboard](https://img.youtube.com/vi/VUbhhzyoTg8/0.jpg)](https://youtu.be/GH1ixV-S0Fo)
 
 ---
 
