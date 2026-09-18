@@ -1,6 +1,6 @@
 # 📊 Análisis del Impacto de la IA en el Riesgo de Despido Laboral
 
-[![Ver video del dashboard](https://img.youtube.com/vi/VUbhhzyoTg8/0.jpg)](https://youtu.be/GH1ixV-S0Fo)
+[![Ver video del dashboard](https://img.youtube.com/vi/GH1ixV-S0Fo/0.jpg)](https://youtu.be/GH1ixV-S0Fo)
 
 ---
 
