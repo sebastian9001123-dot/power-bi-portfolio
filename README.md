@@ -39,7 +39,25 @@ Este repositorio contiene mis proyectos de **Power BI** como Analista de Datos. 
 - Total toneladas
 
 ---
+### 3. Desaborad: Ventas Globales de Video Juegos 
 
+## 🎯 Qué hace este dashboard
+
+Analiza la evolución y el comportamiento de las ventas globales de videojuegos mediante diferentes dimensiones como año, plataforma, género, videojuego y región.
+
+## 🔧 Funcionalidades
+
+* Evolución de ventas globales por año
+* Comparación de ventas por plataforma
+* Análisis de ventas por género
+* Ranking de videojuegos según ventas
+* Indicadores principales del mercado
+* Distribución de ventas por región
+* Filtro interactivo por plataforma
+
+## 🛠️ Herramientas
+
+Power BI | DAX | Power Query | Data Visualization
 ## 🛠️ Habilidades demostradas
 
 | Habilidad | Dónde se ve |
