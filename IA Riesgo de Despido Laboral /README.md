@@ -11,7 +11,6 @@ Dashboard analítico desarrollado en **Power BI** que explora la relación entre
 El proyecto busca responder la siguiente pregunta de negocio:
 
 > **¿Qué características demográficas, profesionales y de uso de IA están más fuertemente asociadas con un alto riesgo de despido?**
-
 ---
 
 ## 🔍 Contexto
